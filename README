@@ -1,0 +1,23 @@
+daph.kaplan, idan0610
+===============================================================================
+Daphna Kaplan, ID 204092613, daph.kaplan@mail.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@mail.huji.ac.il
+===============================================================================
+
+                           Project 5 - Computer Architecture
+                           ---------------------------------
+  
+
+Submitted Files
+---------------
+README 			- This file.
+Memory.hdl 		- Entire RAM address spcae
+CPU.hdl 		- The Hack CPU
+Computer.hdl	- The platform's top-most chip
+ExtendAlu.hdl	- Extended ALU chip with Multiply and Shifting operations
+CpuMul.hdl		- Extended CPU using the extended ALU
+
+Remarks
+-------
+Our CpuMul chip is almost identical to the CPU chip, except the use of ExtendAlu instead of ALU.
+
